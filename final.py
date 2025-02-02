@@ -117,7 +117,7 @@ for ans in response:
     print(type(ans_dict))#['content'])
     print(ans_dict)
     raw_response = ans_dict['content']
-st.write(f"First response: {raw_response}")
+st.write({raw_response})
 
 
 
