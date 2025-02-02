@@ -1,2 +1,3 @@
 ragflow_sdk
 gradio_client
+streamlit_webrtc
